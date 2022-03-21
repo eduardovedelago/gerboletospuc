@@ -1,0 +1,140 @@
+.inputsPF {
+    font-size: 18px;
+    padding: 0;
+    border: 2px solid #ccc;
+    border-left: 0;
+    width: 100%;
+    color: #666;
+    border-radius: 0 7px 7px 0;
+    font-family: 'PT Sans', sans-serif;
+    /*font-weight: bold;*/
+    padding-left: 5px;
+}
+form input:focus {
+    outline: 0;
+}
+form input.error {
+    border-color: #ff0000;
+}
+form label.error {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 6px;
+    font-size: 10px;
+}
+
+form input:disabled {
+    padding-left: 10px;
+}
+
+.labelsPF {
+    color: #999;
+    display: block;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.05em
+}
+
+.flex {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flex input {
+    /*max-width: 1240px;*/
+    flex: 1 1 300px;
+}
+
+.flex .dadosmvto {
+    font-size: 30px;
+    padding: 0 10px 0 20px;
+    color: #999;
+    border: 5px solid #ccc;
+    border-right: 0;
+    line-height: 1.5;
+    border-radius: 7px 0 0 7px;
+    background: white;
+}
+
+input[type=date]::-webkit-clear-button,
+input[type=date]::-webkit-inner-spin-button,
+input[type=date]::-webkit-calendar-picker-indicator {
+    display: none;
+}
+
+bootstrap-select.btn-group:not(.input-group-btn), .bootstrap-select.btn-group[class*=col-] {
+    margin-top: 8px;
+}
+
+.btnIncluirPF{
+    margin-top: 8px;
+    height: 38px;
+    padding: 10px;
+    margin-left: -1px;
+}
+
+.bootstrapWizard li {
+    width: 20%;
+}
+
+.formParcelas{
+    margin-left: 20px;
+}
+
+.marginCheckToggle{
+    margin-top: 14px;
+    padding-left: 10px;
+}
+
+
+
+
+/*switch s Do Complemento*/
+
+.onoffswitch {
+    width: 95px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #999999; border-radius: 33px;
+}
+.onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 34px; padding: 0; line-height: 34px;
+    font-size: 14px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    box-sizing: border-box;
+}
+.onoffswitch-inner:before {
+    content: "Sim";
+    padding-left: 10px;
+    background-color: #34A7C1; color: #FFFFFF;
+}
+.onoffswitch-inner:after {
+    content: "Não";
+    padding-right: 10px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+.onoffswitch-switch {
+    display: block; width: 18px; margin: 8px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 57px;
+    border: 2px solid #999999; border-radius: 33px;
+    transition: all 0.3s ease-in 0s;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px;
+}

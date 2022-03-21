@@ -1,0 +1,32 @@
+.color-secondary {
+    color: #1f1e1d;
+}
+
+.text-uppercase {
+    text-transform: uppercase!important;
+}
+.font-weight-bold {
+    font-weight: 700!important;
+}
+
+.pt-4, .py-4 {
+    padding-top: 1.5rem!important;
+}
+
+.color-accent {
+    color: #ed9c2e;
+}
+
+.page-erp-header-title, .page-erp-header-title h2 {
+    color: #ed9c2e;
+    font-weight: 300;
+    font-size: 38px;
+}
+
+.padding-top-15-perc{
+    padding-top: 15%;
+}
+
+#extr-page #main {
+    padding-top: 70px;
+}

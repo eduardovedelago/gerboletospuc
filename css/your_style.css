@@ -1,0 +1,148 @@
+/*
+ * It is advised not to edit the smartadmin_production.css
+ * as this will override any changes you make in the 
+ * later versions of this theme. 
+ * 
+ * We advise that you use use this CSS to override 
+ * SmartAdmin styles. 
+ * 
+ * Rename the stylesheet to whatever your liking so it will stay
+ * unique to you with each update of SmartAdmin.
+ */
+
+/*
+ * INDEX
+ * 
+ * - HTML
+ * - BODY
+ * - CUSTOM STYLES
+ */
+
+
+.btn-margim {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+span, .caret {
+    margin-right: 5px;
+}
+
+.btn-form-modal{
+    display: inline-block;
+    float: right;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 8px;
+}
+
+
+.conteudoMultiSelect {
+    background-color: #4F6877;
+    border: 0;
+    color: #fff;
+    display: none;
+    left: 0px;
+    padding: 2px 15px 2px 5px;
+    /*position: absolute;*/
+    /*top: 58px;*/
+    position: revert;
+    top: 0px;
+    width: 90%;
+    list-style: none;
+    height: 100px;
+    overflow: auto;
+}
+
+.align-right-txt{
+    text-align: right;
+}
+
+.align-left-txt{
+    text-align: left;
+}
+
+.x_title_unidade {
+    border-bottom: 1px solid #22252A;
+    margin-bottom: 10px;
+    font-size: 18px;
+    height: 35px;
+    padding: 1px 1px 1px;
+    text-align: center;
+}
+
+.x_panel_unidade {
+    position: relative;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px 17px;
+    display: inline-block;
+    background: #2D3035;
+    color: white !important;
+    /* color: #5F6267; */
+    /* border: 1px solid #2D3035; */
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    column-break-inside: avoid;
+    opacity: 1;
+    transition: all .2s ease;
+    margin: 3px;
+    cursor: pointer
+}
+
+.x_title_unidade a {
+    text-align: center;
+    color: white !important;
+}
+
+
+.clearfix:after,
+form:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden
+}
+
+.backgroundHome {
+    background: #474544 !important;
+}
+
+.h-100 {
+    height: 100px;
+}
+
+.h-50 {
+    height: 50px;
+}
+
+.margin-top-5-perc{
+    margin-top: 5%;
+}
+
+.margin-left-5{
+    margin-left: 5px;
+}
+
+.margin-left-10{
+    margin-left: 10px;
+}
+
+.label-title-header{
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
+}
+
+.margin-top-15{
+    margin-top: 15px;
+}
+
+#extr-page #main {
+    padding-top: 70px;
+}
+
+.bg-color-laranja-fabio{background-color:#cc7a00!important}

@@ -1,0 +1,25 @@
+{
+  "name": "GerBoletos",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Eduardo Vedelago",
+      "email": "eduardovedelago@icloud.com"
+    }
+  ],
+  "require": {
+    "doctrine/orm": "v2.5.14",
+    "mashape/unirest-php": "3.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "models": "src",
+      "Ctrl": "controller"
+    }
+  },
+  "config": {
+    "bin-dir": "./bin"
+  }
+}

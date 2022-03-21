@@ -1,0 +1,307 @@
+.tg {
+    margin: 0px auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    -webkit-print-color-adjust: exact;
+}
+
+.tg td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 6px 5px;
+    border-style: solid;
+    border-width: 0px;
+    overflow: hidden;
+    word-break: normal;
+}
+
+.tg th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+}
+
+.tg .tg-ycr8 {
+    background-color: #ffffff;
+    -webkit-print-color-adjust: exact;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-xuqs {
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #dae8fc;
+    -webkit-print-color-adjust: exact;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-6jgx {
+    font-size: 11px;
+    background-color: #ecf4ff;
+    -webkit-print-color-adjust: exact;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-4uwb {
+    font-size: 12px;
+    background-color: #ecf4ff;
+    -webkit-print-color-adjust: exact;
+    border-color: #333333;
+    -webkit-print-color-adjust: exact;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-i7pz {
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #efefef;
+    -webkit-print-color-adjust: exact;
+    border-color: inherit;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-cwv5 {
+    background-color: #ffffff;
+    -webkit-print-color-adjust: exact;
+    text-align: right;
+    vertical-align: top
+}
+
+.tg .tg-7ru9 {
+    font-size: 18px;
+    background-color: #efefef;
+    -webkit-print-color-adjust: exact;
+    border-color: inherit;
+    text-align: center
+}
+
+.tg .tg-kftd {
+    background-color: #efefef;
+    -webkit-print-color-adjust: exact;
+    text-align: left;
+    font-size: 12px;
+    vertical-align: top
+}
+
+.tg .tg-lqy6 {
+    text-align: right;
+    vertical-align: top
+}
+
+.tg .tg-3f5b {
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #dae8fc;
+    -webkit-print-color-adjust: exact;
+    border-color: inherit;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-62ie {
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #ecf4ff;
+    -webkit-print-color-adjust: exact;
+    border-color: #333333;
+    -webkit-print-color-adjust: exact;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-s764 {
+    font-size: 12px;
+    background-color: #dae8fc;
+    -webkit-print-color-adjust: exact;
+    border-color: inherit;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-icit {
+    font-size: 14px;
+    background-color: #ecf4ff;
+    -webkit-print-color-adjust: exact;
+    border-color: #333333;
+    -webkit-print-color-adjust: exact;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-04ob {
+    background-color: #ecf4ff;
+    -webkit-print-color-adjust: exact;
+    border-color: #333333;
+    -webkit-print-color-adjust: exact;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-6nhr {
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #dae8fc;
+    -webkit-print-color-adjust: exact;
+    text-align: right;
+    vertical-align: top
+}
+
+.tg .tg-my2k {
+    background-color: #efefef;
+    text-align: right;
+    font-size: 12px;
+    vertical-align: top
+}
+
+.tg .tg-0lax {
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-fkgn {
+    background-color: #efefef;
+    -webkit-print-color-adjust: exact;
+    border-color: #efefef;
+    -webkit-print-color-adjust: exact;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-prbo {
+    background-color: #efefef;
+    -webkit-print-color-adjust: exact;
+    border-color: #efefef;
+    -webkit-print-color-adjust: exact;
+    text-align: right;
+    vertical-align: top
+}
+
+.tg .tg-7qzr {
+    font-weight: bold;
+    background-color: #c0c0c0;
+    -webkit-print-color-adjust: exact;
+    text-align: right;
+    vertical-align: top;
+    font-size: 14px;
+    font-family: "Courier New", Courier, monospace !important;;
+}
+
+.tg .tg-7qzrll {
+    font-weight: bold;
+    background-color: #c0c0c0;
+    -webkit-print-color-adjust: exact;
+    text-align: left;
+    vertical-align: top;
+    font-size: 14px;
+    font-family: "Courier New", Courier, monospace !important;;
+}
+
+.tg .tg-ynn5 {
+    background-color: #9b9b9b;
+    -webkit-print-color-adjust: exact;
+    border-color: #dae2fc;
+    -webkit-print-color-adjust: exact;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-0g60 {
+    font-weight: bold;
+    background-color: #dae8fc;
+    -webkit-print-color-adjust: exact;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-y6fn {
+    background-color: #c0c0c0;
+    -webkit-print-color-adjust: exact;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-0qe0 {
+    background-color: #ecf4ff;
+    -webkit-print-color-adjust: exact;
+    text-align: left;
+    vertical-align: top
+}
+
+.tg .tg-6qw1 {
+    background-color: #c0c0c0;
+    -webkit-print-color-adjust: exact;
+    text-align: center;
+    vertical-align: top
+}
+
+.tg .tg-13ft {
+    font-size: 13px;
+    background-color: #9b9b9b;
+    -webkit-print-color-adjust: exact;
+    border-color: #9b9b9b;
+    -webkit-print-color-adjust: exact;
+    text-align: right;
+    vertical-align: top
+}
+
+.tg .tg-vsq8 {
+    font-size: 14px;
+    font-family: "Courier New", Courier, monospace !important;;
+    text-align: right;
+    font-weight: bold;
+}
+
+.tg .tg-n1hl {
+    font-size: 14px;
+    font-family: "Courier New", Courier, monospace !important;;
+    text-align: left;
+    font-weight: bold;
+}
+
+.tg .tg-jfzd {
+    font-size: 14px;
+    font-family: "Courier New", Courier, monospace !important;;
+    text-align: center;
+    font-weight: bold;
+}
+
+.tg .tg-x069 {
+    background-color: #eee8d5;
+    font-size: 14px;
+    font-family: "Courier New", Courier, monospace !important;;
+    text-align: left
+}
+
+.tg .tg-x0692 {
+    background-color: #eee8d5;
+    font-size: 11px;
+    font-family: "Courier New", Courier, monospace !important;;
+    text-align: left
+}
+
+.tg .tg-ot5y {
+    background-color: #eee8d5;
+    font-size: 14px;
+    font-family: "Courier New", Courier, monospace !important;;
+    text-align: right
+}
+
+.tg .tg-hwur {
+    background-color: #eee8d5;
+    font-size: 14px;
+    font-family: "Courier New", Courier, monospace !important;;
+    text-align: center
+}
